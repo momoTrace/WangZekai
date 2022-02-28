@@ -27,7 +27,7 @@ int main()
 
 ------------
 # [老八慎入](http://wangmou.ga/1.html "主页")
-# [小升初测评](http://wangmou.ga/index1.html "链接")
+# [小升初测评](http://wangmou.ga/index.pdf "链接")
 &copy;徐航王泽网络科技有限公司
 &#64;虎牙MT默哥
 徐航王泽工作室&trade;
